@@ -4,8 +4,8 @@
 		<title>DGPT4711 Lab 06</title>
 	</head>
 	<body>
-		<h1>Travel Destinations</h1>
-		<p><a href="/travel">Show the destinations</a>.</p>
-		<p><a href="/places">Show the places raw data</a></p>
+		<h1>footballPlayer</h1>
+		<p><a href="/teamMember">Show the destinations</a>.</p>
+		<p><a href="/peoples">Show the team member raw data</a></p>
 	</body>
 </html>
