@@ -1,5 +1,7 @@
 <?php
 namespace App\Models;
+use  App\Models\Simple\CSVModel;
+
 
 /*
  * Mock travel destination data.
@@ -8,8 +10,9 @@ namespace App\Models;
 
 class Peoples {
 
+  
     //mock data : an array of records
-    protected $data = [
+   protected $data = [
         '1' => [
             'id' => 1,
             'name' => 'Sergio Agüero',
