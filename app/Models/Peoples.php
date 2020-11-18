@@ -12,7 +12,7 @@ class Peoples extends CSVModel {
 
   
     //mock data : an array of records
-        protected $origin = WRITEPATH . 'data/data_her.csv';
+        protected $origin = WRITEPATH . 'data/data_heros.csv';
     protected $keyField = 'id';
     protected $validationRules = [];
     
